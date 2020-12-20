@@ -59,63 +59,63 @@ score, nb_features, nb_layers, learning_rate
 0.47933, 20, 17, constant
 0.47180, 20, 17, invscaling
 0.46730, 20, 17, adaptive
-0.48315, 10, (10, 10), constant
-0.48071, 10, (10, 10), invscaling
-0.47679, 10, (10, 10), adaptive
-0.48347, 12, (10, 10), constant
-0.48684, 12, (10, 10), invscaling
-0.48405, 12, (10, 10), adaptive
-0.48046, 15, (10, 10), constant
-0.48481, 15, (10, 10), invscaling
-0.48527, 15, (10, 10), adaptive
-0.48657, 17, (10, 10), constant
-0.48669, 17, (10, 10), invscaling
-0.48077, 17, (10, 10), adaptive
-0.46501, 20, (10, 10), constant
-0.45372, 20, (10, 10), invscaling
-0.47836, 20, (10, 10), adaptive
-0.48133, 10, (12, 12), constant
-0.48583, 10, (12, 12), invscaling
-0.48337, 10, (12, 12), adaptive
-0.48631, 12, (12, 12), constant
-0.48664, 12, (12, 12), invscaling
-0.47735, 12, (12, 12), adaptive
-0.48594, 15, (12, 12), constant
-0.48220, 15, (12, 12), invscaling
-0.48185, 15, (12, 12), adaptive
-0.48616, 17, (12, 12), constant
-0.48294, 17, (12, 12), invscaling
-0.48748, 17, (12, 12), adaptive
-0.47187, 20, (12, 12), constant
-0.43858, 20, (12, 12), invscaling
-0.47002, 20, (12, 12), adaptive
-0.48089, 10, (15, 15), constant
-0.47417, 10, (15, 15), invscaling
-0.48776, 10, (15, 15), adaptive
-0.48978, 12, (15, 15), constant
-0.48331, 12, (15, 15), invscaling
-0.48921, 12, (15, 15), adaptive
-0.48002, 15, (15, 15), constant
-0.48227, 15, (15, 15), invscaling
-0.48503, 15, (15, 15), adaptive
-0.48352, 17, (15, 15), constant
-0.48588, 17, (15, 15), invscaling
-0.48423, 17, (15, 15), adaptive
-0.47782, 20, (15, 15), constant
-0.49255, 20, (15, 15), invscaling
-0.46675, 20, (15, 15), adaptive
-0.48807, 10, (17, 17), constant
-0.47990, 10, (17, 17), invscaling
-0.47880, 10, (17, 17), adaptive
-0.48394, 12, (17, 17), constant
-0.47577, 12, (17, 17), invscaling
-0.47809, 12, (17, 17), adaptive
-0.48328, 15, (17, 17), constant
-0.48219, 15, (17, 17), invscaling
-0.48009, 15, (17, 17), adaptive
-0.47465, 17, (17, 17), constant
-0.48663, 17, (17, 17), invscaling
-0.48159, 17, (17, 17), adaptive
-0.48879, 20, (17, 17), constant
-0.47946, 20, (17, 17), invscaling
-0.47401, 20, (17, 17), adaptive
+0.48315, 10, (10,10), constant
+0.48071, 10, (10,10), invscaling
+0.47679, 10, (10,10), adaptive
+0.48347, 12, (10,10), constant
+0.48684, 12, (10,10), invscaling
+0.48405, 12, (10,10), adaptive
+0.48046, 15, (10,10), constant
+0.48481, 15, (10,10), invscaling
+0.48527, 15, (10,10), adaptive
+0.48657, 17, (10,10), constant
+0.48669, 17, (10,10), invscaling
+0.48077, 17, (10,10), adaptive
+0.46501, 20, (10,10), constant
+0.45372, 20, (10,10), invscaling
+0.47836, 20, (10,10), adaptive
+0.48133, 10, (12,12), constant
+0.48583, 10, (12,12), invscaling
+0.48337, 10, (12,12), adaptive
+0.48631, 12, (12,12), constant
+0.48664, 12, (12,12), invscaling
+0.47735, 12, (12,12), adaptive
+0.48594, 15, (12,12), constant
+0.48220, 15, (12,12), invscaling
+0.48185, 15, (12,12), adaptive
+0.48616, 17, (12,12), constant
+0.48294, 17, (12,12), invscaling
+0.48748, 17, (12,12), adaptive
+0.47187, 20, (12,12), constant
+0.43858, 20, (12,12), invscaling
+0.47002, 20, (12,12), adaptive
+0.48089, 10, (15,15), constant
+0.47417, 10, (15,15), invscaling
+0.48776, 10, (15,15), adaptive
+0.48978, 12, (15,15), constant
+0.48331, 12, (15,15), invscaling
+0.48921, 12, (15,15), adaptive
+0.48002, 15, (15,15), constant
+0.48227, 15, (15,15), invscaling
+0.48503, 15, (15,15), adaptive
+0.48352, 17, (15,15), constant
+0.48588, 17, (15,15), invscaling
+0.48423, 17, (15,15), adaptive
+0.47782, 20, (15,15), constant
+0.49255, 20, (15,15), invscaling
+0.46675, 20, (15,15), adaptive
+0.48807, 10, (17,17), constant
+0.47990, 10, (17,17), invscaling
+0.47880, 10, (17,17), adaptive
+0.48394, 12, (17,17), constant
+0.47577, 12, (17,17), invscaling
+0.47809, 12, (17,17), adaptive
+0.48328, 15, (17,17), constant
+0.48219, 15, (17,17), invscaling
+0.48009, 15, (17,17), adaptive
+0.47465, 17, (17,17), constant
+0.48663, 17, (17,17), invscaling
+0.48159, 17, (17,17), adaptive
+0.48879, 20, (17,17), constant
+0.47946, 20, (17,17), invscaling
+0.47401, 20, (17,17), adaptive
