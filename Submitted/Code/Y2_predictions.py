@@ -5,10 +5,10 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.neighbors import KNeighborsRegressor
 
-X1 = pd.read_csv("X1.csv")
-Y1 = pd.read_csv("Y1.csv",header=None,names =['shares'])
+X1 = pd.read_csv("../Data/X1.csv")
+Y1 = pd.read_csv("../Data/Y1.csv",header=None,names =['shares'])
 
-X2 = pd.read_csv("X2.csv")
+X2 = pd.read_csv("../Data/X2.csv")
 
 X1_val = X1.values
 Y1_val = Y1.values
@@ -31,7 +31,7 @@ knn.fit(X1_pca_15,Y1_val)
 Y1_pred = knn.predict(X2_pca_15)
 
 import csv
-file = open("Y2.csv", "w")
+file = open("../Data/Y2.csv", "w")
 for val in Y1_pred:
         file.write(str(int(np.round(val)))+'\n')
 file.close()
