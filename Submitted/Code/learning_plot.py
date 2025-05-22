@@ -20,15 +20,15 @@ level_cf = MaxNLocator(nbins=20).tick_values(scmin,scmax)
 level_tc = np.arange(scmin,scmax)
 
 def filename(method, featuring):
-	return "Scores/" + method + "_" + featuring + ".txt"
+	return "../Scores/" + method + "_" + featuring + ".txt"
 
 def figname(method, featuring=None, learning=None):
 	if featuring==None:
-		return 'Figs/' + method + '.pdf'
+		return '../Figs/' + method + '.pdf'
 	elif learning==None:
-		return 'Figs/' + method + '_' + featuring + '.pdf'
+		return '../Figs/' + method + '_' + featuring + '.pdf'
 	else:
-		return 'Figs/' + method + '_' + featuring + '_' + learning + '.pdf'
+		return '../Figs/' + method + '_' + featuring + '_' + learning + '.pdf'
 
 def len_of_var(var):
 	res = []
