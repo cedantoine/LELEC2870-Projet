@@ -104,6 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.venv-lelec2870-project
 env/
 venv/
 ENV/
